@@ -1,2 +1,2 @@
-# RodgeI.github.io
+# Personal
 This is My personal Project
